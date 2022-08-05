@@ -4,7 +4,7 @@
 
 🎓 I am SAMEER RUDDIN, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Mechanical Engineering** and will graduate in mid-2021.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**,   **Webhint**, and others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
 
 👨‍💻 Outside the world of tech too, I enjoy pushing myself to develop new skills. 
 
